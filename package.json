@@ -7,9 +7,17 @@
     "dev": "parcel ./src/index.html",
     "build": "parcel build ./src/index.html"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexMyron/goit-js-hw-09-parsel.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexMyron/goit-js-hw-09-parsel/issues"
+  },
+  "homepage": "https://github.com/AlexMyron/goit-js-hw-09-parsel#readme",
   "devDependencies": {
     "parcel-bundler": "^1.12.5"
   }
